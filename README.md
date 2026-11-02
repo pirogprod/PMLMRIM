@@ -12,6 +12,10 @@ https://github.com/mrimsu/mrim-docs/tree/main
 
 ВНИМАНИЕ : Если у вас возникли проблемы с подключением, попробуйте сменить порт с 2042 на 2041
 
+Файлы исходников опубликованы в ZIP архиве!
+PMLMRIM-XP-VS2019-MirandaNG-0.96.7-GITHUB.zip
+PMLMRIM-XP-VS2019-MirandaNG-0.96.8-GITHUB.zip
+
 | Папка | Целевая Miranda NG | Рекомендуемая сборка |
 | --- | --- | --- |
 | `0.96.7/` | 0.96.7 | Visual Studio 2019, `Release / Win32`, `v141_xp` |
