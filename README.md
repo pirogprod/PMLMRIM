@@ -42,8 +42,6 @@ PMLMRIM-XP-VS2019-MirandaNG-0.96.8-GITHUB.zip
 
 Плагин работает на Windows XP-11
 
-Код сформирован на базе последнего XP-патча `PMLMRIM-XP-x86-0967-0968-WC-C2065-FIX.zip`. Архив и ресурсы проверены, но **фактическая Windows-сборка, загрузка DLL и работа на XP не проверены**.
-
 ## Происхождение и лицензии
 
 См. [`SOURCE-PROVENANCE.md`](SOURCE-PROVENANCE.md), [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) и [`LICENSE-STATUS.md`](LICENSE-STATUS.md). Наличие исходников и графики не доказывает права на их распространение по единой лицензии. Сторонние иконки нужно проверять отдельно.
