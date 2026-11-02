@@ -6,7 +6,7 @@ https://github.com/miranda-ng/miranda-ng
 Документация по которой делался протокольный модуль.
 https://github.com/mrimsu/mrim-docs/tree/main
 
-Proto_PMLMRIM.DLL - является файлом значков протокола
+Proto_PMLMRIM.DLL - Является файлом для значков протокола
 
 ## Варианты
 
