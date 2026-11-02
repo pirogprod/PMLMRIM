@@ -1,4 +1,4 @@
-# PMLMRIM — единые XP-совместимые исходники для Miranda NG
+# PMLMRIM — единые XP-11 совместимые исходники для Miranda NG
 
 PMLMRIM — экспериментальный плагин протокола Агент@Mail.Ru (MRIM) для **Miranda NG 0.96.7 и 0.96.8**.
 https://github.com/miranda-ng/miranda-ng
