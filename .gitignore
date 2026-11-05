@@ -1,0 +1,20 @@
+# Visual Studio / build artifacts
+.vs/
+**/Debug/
+**/Release/
+**/x64/Debug/
+**/x64/Release/
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.user
+*.suo
+# Local profiles / secrets
+**/Profiles/
+**/profile.dat
+*.dmp

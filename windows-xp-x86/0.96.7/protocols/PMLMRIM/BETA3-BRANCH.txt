@@ -1,0 +1,4 @@
+PMLMRIM BETA 3 / Miranda NG 0.96.8
+Base: PMLMRIM-BETA2-0.96.8-MobileAgent-empty-message-UTF16-fix.zip
+Feature: contact avatar fetch and separate avatar server/port settings.
+No changes to X-status or MRIM messages.

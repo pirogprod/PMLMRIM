@@ -1,0 +1,15 @@
+﻿#pragma once
+#define IDI_PMLMRIM 101
+#define IDD_ACCMGRUI 102
+#define IDD_OPTIONS 103
+#define IDC_EMAIL 110
+#define IDC_PASSWORD 111
+#define IDC_SERVER 112
+#define IDC_PORT 113
+#define IDD_MRIM_INFO 114
+#define IDC_PROFILE_TEXT 115
+
+#define IDC_AVATAR_SERVER 116
+#define IDC_AVATAR_PORT 117
+
+#define IDC_MESSAGE_ENCODING 118

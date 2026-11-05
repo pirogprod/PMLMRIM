@@ -1,0 +1,3 @@
+PMLMRIM BETA 2 / Miranda NG 0.96.8
+Based on user-confirmed working Jimm X-status BETA 1.
+Only message encoding and message codec updated.
